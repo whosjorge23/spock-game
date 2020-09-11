@@ -10,6 +10,7 @@ body {
   background-color: #ECF0F1;
   font-family: Lato, sans-serif;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
